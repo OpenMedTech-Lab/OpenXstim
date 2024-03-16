@@ -1,9 +1,4 @@
 # <P align="center"> OpenIstim - Open Source Transcutaneous Current Stimulator 
- 
-### DEVELOPED BY:
-Dr Monzurul Alam <br/>
-Profile: https://scholar.google.com.au/citations?user=a2yhqEQAAAAJ&hl=en&oi=ao <br/>
-Contact: md.malam@connect.polyu.hk <br/>
 
 ### OBJECTIVES:
 <P align="justify"> The objective of this project is to develop a miniature transcutaneous electrical stimulator for non-invasive muscle and nerve stimulation.
@@ -25,3 +20,8 @@ Contact: md.malam@connect.polyu.hk <br/>
 
 ### LICENSE:
 ##### Documentation licensed under the Creative Commons Attribution Share Alike 4.0 International License
+
+### CONTACT:
+Dr Monzurul Alam <br/>
+Profile: https://scholar.google.com.au/citations?user=a2yhqEQAAAAJ&hl=en&oi=ao <br/>
+Email: md.malam@connect.polyu.hk <br/>
