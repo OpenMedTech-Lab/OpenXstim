@@ -18,7 +18,7 @@
 - The stimulator should never be powered from external adapter, USB or power source while being used or connected to the body.
 
 ### LICENSE:
-##### Documentation licensed under the Creative Commons Attribution Share Alike 4.0 International License
+##### Documentation and all the source files are licensed under the Creative Commons Attribution Share Alike 4.0 International License
 
 ### DEVELOPED BY:
 Dr Monzurul Alam <br/>
